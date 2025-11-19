@@ -1,0 +1,145 @@
+%-------------------------
+% Rover Resume - Base Template
+% Link: https://github.com/subidit/rover-resume
+%
+% Shows code for various formatting options for different resume sections.
+% Education and Projects have single-line headers; while Experience uses double-line.
+% Some formatting codes are kept inline; consider \newcommand{cmd}{def}.
+% Excludes hyperref and icons for readability; MVP version.
+% Explore other templates for more options.
+% Mix and match as desired. Be consistent with headers and sub-headers.
+%------------------------
+
+%-------Notes for me-----
+
+% I need to change the professional profile and then the key skills
+
+%------------------------
+
+\documentclass[11pt]{article} % fontsize 10pt/11pt/12pt
+\usepackage[default]{lato}
+\usepackage[T1]{fontenc}
+
+\usepackage[margin=1in, a4paper]{geometry}
+\setcounter{secnumdepth}{0} % remove section numbering
+\usepackage{titlesec}
+\titlespacing{\subsection}{0pt}{*0}{*0} % remove vertical spacing above and below
+\titlespacing{\subsubsection}{0pt}{*0}{*0}
+\titleformat{\section}{\large\bfseries}{}{}{}[\titlerule]
+\titleformat*{\subsubsection}{\large\itshape}
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep,left=0pt .. \parindent}
+\pagestyle{empty} % remove page number
+\pdfgentounicode=1
+
+
+\begin{document}
+
+\begin{center}
+	\begin{minipage}{0.5\textwidth}
+		{\Huge
+			Jaylen Dias % Name Here
+		} \\ \medskip
+		 % Title [optional]
+	\end{minipage} \hfill
+	\begin{minipage}{0.4\textwidth}
+		\raggedleft
+		Email: dias\_j@outlook.com \\
+		Mobile: +44 (0) 7300 870978 \\
+        LinkedIn: linkedin.com/in/jaylen-dias \\
+	\end{minipage}
+\end{center}
+
+\section{Professional Profile}
+%=================%
+Customer-focused retail professional with 3+ years of management experience seeking Retail Advisor position in telecommunications retail. Proven track record in team leadership, building customer relationships, and driving sales performance in fast-paced environments. Strong problem-solving abilities and communication skills developed through managing diverse teams and resolving customer queries. Currently pursuing BSc Computer Science for Cyber Security, bringing both technical aptitude and people skills to deliver exceptional customer service in mobile retail environments.
+
+\section{Key Skills}
+%===========================%
+\subsection{Customer \& Sales Skills:}
+\begin{itemize}
+    \item \textbf{Customer relationship building and retention} - Built loyal customer base at Greggs through consistent service, contributing to 21\% sales increase.
+\item \textbf{Sales techniques and upselling} - Successfully increased Average Transaction Value through product recommendations, promotional awareness, and technical product demonstrations.
+    \item \textbf{Team leadership and mentoring} - Trained new team members on service standards and procedures across front and back of house operations.
+    \item \textbf{Problem resolution and complaint handling} - Resolved customer issues and technical queries efficiently while maintaining brand standards and customer satisfaction.
+    \item \textbf{Working in target-driven environments} - Consistently met performance metrics including shop audit scores and sales targets over 3+ years.
+    \item \textbf{Cash handling and transaction processing} - Managed daily banking operations and coordinated secure cash collections with external services such as Loomis.
+\end{itemize}
+
+\subsection{Personal Qualities:}
+\begin{itemize}
+    \item \textbf{Curious and questioning approach} - Actively seek to understand customer needs and continuously improve service delivery methods.
+    \item \textbf{Resilience and adaptability under pressure} - Maintained high service standards during peak trading periods and challenging situations.
+    \item \textbf{Strong communication and interpersonal skills} - Successfully led diverse teams and built positive relationships with customers and colleagues.
+    \item \textbf{Enthusiastic learner with growth mindset} - Currently pursuing degree while working, and undertaking Cisco CCNA certification.
+\end{itemize}
+
+\section{Experience}
+%=================%
+\subsection{Greggs \hfill Paddington, London}
+\subsubsection{Shift Manager \hfill  01/2022 - Present}
+\noindent\textit{Previous role: Shop Manager (promoted and later transitioned back to Shift Manager)}
+\vspace{-0.5em}
+\begin{itemize}
+\item Build strong customer relationships through exceptional service delivery and technical product support, contributing to sustained high performance standards.
+    \item Lead front and back of house teams, ensuring optimal customer experience and minimal waiting times.
+    \item Resolve customer complaints and queries efficiently while maintaining brand standards and customer satisfaction.
+    \item Train and mentor new team members on customer service best practices, sales techniques, and product knowledge.
+    \item Support management with staff scheduling using UKG Dimensions, ensuring adequate coverage during peak periods.
+    \item Handled daily banking operations and coordinate with external services such as Loomis, demonstrating reliability and attention to detail.
+    \item Monitor sales performance and customer experience metrics using Microsoft PowerBI reports.
+\end{itemize}
+
+\subsection{Harlington School \hfill Harlington, London}
+\subsubsection{IT Support Staff \hfill 05/2021}
+\begin{itemize}
+    \item Provided first-line technical support for diverse range of devices including PCs, iPads, and printers.
+    \item Maintained school's network infrastructure and user accounts using Microsoft Intune and Active Directory.
+    \item Ensured prompt resolution of technical issues to minimize disruption to daily operations.
+\end{itemize}
+
+\section{Education}
+%=================%
+\subsection{Oxford Brookes University, Oxford $|$ {\normalfont\itshape BSc Computer Science for Cyber Security}}
+\subsection{ \hfill September 2023 -- Present}
+\begin{itemize}
+    \item Object-oriented programming using Python to create modular game components.
+    \item Configured and troubleshooted VLANs and Inter-VLAN routing using Cisco Packet Tracer.
+    \item Related Coursework: Network Protocols, Database Management, Access Control Systems, Formal Languages and Automata Theory.
+\end{itemize}
+
+\subsection{City of Westminster College, Paddington, London $|$ {\normalfont\itshape BTEC Level 3 Extended Diploma, Information Technology} \hfill September 2021 -- June 2023}
+\begin{itemize}
+    \item Level 3 -- DMM (ABB equivalent)
+    \item Developed business database solutions using SQL Server Management Studio.
+    \item Applied ITIL framework principles to IT Service Delivery processes.
+    \item Performed dynamic malware analysis in sandboxed environments for threat intelligence.
+\end{itemize}
+
+\subsection{Harlington School, Harlington $|$ {\normalfont\itshape GCSEs} \hfill September 2016 -- June 2021}
+\begin{itemize}
+    \item 10 GCSEs, grades 9-4 including English and Maths.
+\end{itemize}
+
+\section{Certifications}
+%===============================%
+\begin{enumerate}[label=\null, left=0pt..0pt, itemsep=0pt]
+	\item Microsoft Office 365 Specialist -- \textbf{Excel Associate \hfill January 2021}
+    \item Microsoft Office 365 Specialist -- \textbf{Word Associate \hfill January 2021}
+    \item \itshape Currently working towards Cisco CCNA certification as part of optional university module.
+    
+\end{enumerate}
+
+\section{Additional Technical Skills}
+%===============================%
+\begin{enumerate}[label=\null, left=0pt..0pt, itemsep=0pt]
+	\item Database management (SQL Server Management Studio)
+    \item Basic programming knowledge including Python, C/C++ and Lua
+    \item Network fundamentals and VLAN configuration
+\end{enumerate}
+\titlerule
+\vspace{1em}
+{\normalfont \itshape References available on request.}
+
+
+\end{document}
