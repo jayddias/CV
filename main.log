@@ -1,0 +1,306 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.12.17)  2 JAN 2026 10:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+lato/lato.sty
+Package: lato 2019/06/20 Style file for Lato.
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+fontaxes/fontaxes.sty
+Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+figureversions/figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+))
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/xkeyval/xkeyval.tex
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/xkeyval/keyval.tex))
+\XKV@depth=\count283
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lato-TLF on input li
+ne 116.
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+lato/T1lato-TLF.fd
+File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
+)
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 116.
+)
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks19
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+geometry/geometry.cfg))
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen157
+\ttl@minus=\dimen158
+\ttl@toksa=\toks20
+\titlewidth=\dimen159
+\titlewidthlast=\dimen160
+\titlewidthfirst=\dimen161
+)
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\enitkv@toks@=\toks21
+\labelindent=\skip53
+\enit@outerparindent=\dimen162
+\enit@toks=\toks22
+\enit@inbox=\box54
+\enit@count@id=\count287
+\enitdp@description=\count288
+)
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+\c@mv@tabular=\count290
+\c@mv@boldtabular=\count291
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 44.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 53.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 53.
+
+Overfull \hbox (6.8729pt too wide) in paragraph at lines 55--56
+\T1/lato-TLF/m/n/10.95 SAP Analyst position. Demonstrated ability to bridge bus
+iness and technical requirements through
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
+ine 61.
+
+(/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+lato/TS1lato-TLF.fd
+File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 61.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 61.
+
+Overfull \hbox (18.37843pt too wide) in paragraph at lines 62--63
+[]\T1/lato-TLF/b/n/10.95 Requirements gathering and documentation \T1/lato-TLF/
+m/n/10.95 - Translating business needs into technical solutions
+ []
+
+
+Overfull \hbox (9.21114pt too wide) in paragraph at lines 63--64
+[]\T1/lato-TLF/b/n/10.95 Process improvement and problem-solving \T1/lato-TLF/m
+/n/10.95 - Systematic approach to technical troubleshooting
+ []
+
+
+Overfull \hbox (2.06978pt too wide) in paragraph at lines 64--65
+[]\T1/lato-TLF/b/n/10.95 Data analysis and reporting \T1/lato-TLF/m/n/10.95 - E
+xperience with Microsoft PowerBI for performance monitoring
+ []
+
+
+Overfull \hbox (1.72903pt too wide) in paragraph at lines 65--66
+[]\T1/lato-TLF/b/n/10.95 Agile and structured methodologies \T1/lato-TLF/m/n/10
+.95 - Exposure to iterative development approaches through
+ []
+
+
+Overfull \hbox (18.1693pt too wide) in paragraph at lines 73--74
+[]\T1/lato-TLF/b/n/10.95 Attention to detail and accuracy \T1/lato-TLF/m/n/10.9
+5 - Maintained high audit scores and managed financial operations
+ []
+
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 79.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 80.
+
+Overfull \hbox (2.59814pt too wide) in paragraph at lines 87--88
+[]\T1/lato-TLF/m/n/10.95 Supported management with staff scheduling using UKG D
+imensions, gathering requirements
+ []
+
+
+
+[1
+
+{/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdf
+tex/pdftex.map}]
+Overfull \hbox (9.93158pt too wide) in paragraph at lines 96--97
+[]\T1/lato-TLF/m/n/10.95 Configured and maintained enterprise systems including
+ Microsoft Intune and Active Directory,
+ []
+
+
+Overfull \hbox (17.74225pt too wide) in paragraph at lines 97--98
+[]\T1/lato-TLF/m/n/10.95 Documented technical processes and troubleshooting pro
+cedures to support knowledge transfer
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 103.
+
+
+[2] (main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2533 strings out of 469811
+ 44588 string characters out of 5467664
+ 455173 words of memory out of 5000000
+ 31171 multiletter control sequences out of 15000+600000
+ 788642 words of font info for 67 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 62i,5n,80p,595b,231s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/fonts/en
+c/dvips/lato/a_cl4kdn.enc}{/Users/jaylendias/Library/Application Support/MiKTeX
+/texmfs/install/fonts/enc/dvips/lato/a_rt66h3.enc}</Users/jaylendias/Library/Ap
+plication Support/MiKTeX/texmfs/install/fonts/type1/typoland/lato/Lato-Bold.pfb
+></Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
+e1/typoland/lato/Lato-Italic.pfb></Users/jaylendias/Library/Application Support
+/MiKTeX/texmfs/install/fonts/type1/typoland/lato/Lato-Regular.pfb></Users/jayle
+ndias/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb>
+Output written on main.pdf (2 pages, 105870 bytes).
+PDF statistics:
+ 34 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
