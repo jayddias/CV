@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.12.17)  2 JAN 2026 10:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.12.17)  17 JAN 2026 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -194,85 +194,91 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 44.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 53.
+(Font)              scaled to size 12.0pt on input line 54.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 53.
+(Font)              scaled to size 12.0pt on input line 54.
 
-Overfull \hbox (6.8729pt too wide) in paragraph at lines 55--56
-\T1/lato-TLF/m/n/10.95 SAP Analyst position. Demonstrated ability to bridge bus
-iness and technical requirements through
+Overfull \hbox (8.96457pt too wide) in paragraph at lines 56--57
+\T1/lato-TLF/m/n/10.95 Computer Science graduate combining technical analytical
+ skills with genuine passion for transport
  []
 
+
+Overfull \hbox (2.29263pt too wide) in paragraph at lines 56--57
+\T1/lato-TLF/m/n/10.95 planning. Experience in network optimization, system des
+ign, and data analysis through academic
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 61.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 61.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 61.
+ine 64.
 
 (/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
 lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 61.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 61.
+(Font)              scaled to size 10.95pt on input line 64.
 
-Overfull \hbox (18.37843pt too wide) in paragraph at lines 62--63
-[]\T1/lato-TLF/b/n/10.95 Requirements gathering and documentation \T1/lato-TLF/
-m/n/10.95 - Translating business needs into technical solutions
+Overfull \hbox (28.22922pt too wide) in paragraph at lines 64--65
+\T1/lato-TLF/m/n/10.95 networks with VLSM subnetting, OSPF routing protocols, a
+nd redundancy planning, demonstrating
  []
 
 
-Overfull \hbox (9.21114pt too wide) in paragraph at lines 63--64
-[]\T1/lato-TLF/b/n/10.95 Process improvement and problem-solving \T1/lato-TLF/m
-/n/10.95 - Systematic approach to technical troubleshooting
- []
-
-
-Overfull \hbox (2.06978pt too wide) in paragraph at lines 64--65
-[]\T1/lato-TLF/b/n/10.95 Data analysis and reporting \T1/lato-TLF/m/n/10.95 - E
-xperience with Microsoft PowerBI for performance monitoring
- []
-
-
-Overfull \hbox (1.72903pt too wide) in paragraph at lines 65--66
-[]\T1/lato-TLF/b/n/10.95 Agile and structured methodologies \T1/lato-TLF/m/n/10
-.95 - Exposure to iterative development approaches through
- []
-
-
-Overfull \hbox (18.1693pt too wide) in paragraph at lines 73--74
-[]\T1/lato-TLF/b/n/10.95 Attention to detail and accuracy \T1/lato-TLF/m/n/10.9
-5 - Maintained high audit scores and managed financial operations
+Overfull \hbox (1.61334pt too wide) in paragraph at lines 65--66
+[]\T1/lato-TLF/m/n/10.95 COMP6014: Software Development & System Security ^^U D
+eveloped secure web applications
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 79.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 80.
-
-Overfull \hbox (2.59814pt too wide) in paragraph at lines 87--88
-[]\T1/lato-TLF/m/n/10.95 Supported management with staff scheduling using UKG D
-imensions, gathering requirements
- []
-
+(Font)              scaled to size 10.95pt on input line 71.
 
 
 [1
 
 {/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdf
 tex/pdftex.map}]
-Overfull \hbox (9.93158pt too wide) in paragraph at lines 96--97
-[]\T1/lato-TLF/m/n/10.95 Configured and maintained enterprise systems including
- Microsoft Intune and Active Directory,
+Overfull \hbox (14.94249pt too wide) in paragraph at lines 100--101
+[]\T1/lato-TLF/m/n/10.95 Analyzed capacity requirements, redundancy, and failov
+er scenarios similar to transport network
  []
 
 
-Overfull \hbox (17.74225pt too wide) in paragraph at lines 97--98
-[]\T1/lato-TLF/m/n/10.95 Documented technical processes and troubleshooting pro
-cedures to support knowledge transfer
+Overfull \hbox (2.11989pt too wide) in paragraph at lines 106--107
+[]\T1/lato-TLF/m/n/10.95 Conducted comprehensive security audit identifying and
+ remediating vulnerabilities including
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 103.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 112.
+
+Overfull \hbox (42.8191pt too wide) in paragraph at lines 113--114
+[]\T1/lato-TLF/b/n/10.95 Professional: \T1/lato-TLF/m/n/10.95 Project Managemen
+t, Stakeholder Communication, Problem-solving, Time Management 
+ []
+
+
+Overfull \hbox (22.65448pt too wide) in paragraph at lines 114--115
+[]\T1/lato-TLF/b/n/10.95 Personal Interest: \T1/lato-TLF/m/n/10.95 Active inter
+est in transport planning and urban mobility, particularly sustainable
+ []
+
+
+Overfull \hbox (2.48889pt too wide) in paragraph at lines 122--123
+[]\T1/lato-TLF/m/n/10.95 Developed communication strategies across multiple pla
+tforms to engage diverse stakeholder
+ []
+
+
+Overfull \hbox (6.80875pt too wide) in paragraph at lines 123--124
+[]\T1/lato-TLF/m/n/10.95 Demonstrated stakeholder engagement and community coor
+dination skills applicable to public
+ []
+
 
 
 [2] (main.aux)
@@ -282,23 +288,23 @@ L3 programming layer <2025-10-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2533 strings out of 469811
- 44588 string characters out of 5467664
- 455173 words of memory out of 5000000
- 31171 multiletter control sequences out of 15000+600000
+ 2526 strings out of 469811
+ 44392 string characters out of 5467664
+ 453167 words of memory out of 5000000
+ 31164 multiletter control sequences out of 15000+600000
  788642 words of font info for 67 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 62i,5n,80p,595b,231s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 62i,5n,80p,384b,233s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/fonts/en
-c/dvips/lato/a_cl4kdn.enc}{/Users/jaylendias/Library/Application Support/MiKTeX
-/texmfs/install/fonts/enc/dvips/lato/a_rt66h3.enc}</Users/jaylendias/Library/Ap
+c/dvips/lato/a_rt66h3.enc}{/Users/jaylendias/Library/Application Support/MiKTeX
+/texmfs/install/fonts/enc/dvips/lato/a_cl4kdn.enc}</Users/jaylendias/Library/Ap
 plication Support/MiKTeX/texmfs/install/fonts/type1/typoland/lato/Lato-Bold.pfb
 ></Users/jaylendias/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
 e1/typoland/lato/Lato-Italic.pfb></Users/jaylendias/Library/Application Support
 /MiKTeX/texmfs/install/fonts/type1/typoland/lato/Lato-Regular.pfb></Users/jayle
 ndias/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb>
-Output written on main.pdf (2 pages, 105870 bytes).
+Output written on main.pdf (2 pages, 111907 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
